@@ -69,7 +69,7 @@ def input_pdf_setup(uploaded_file):
 
 # Streamlit App
 st.set_page_config(page_title="ATS Resume Expert")
-typewriter_effect("RESUMIFY.AI")
+typewriter_effect("RESUMIFYYYYYY.AI")
 st.markdown("From Resume to Reality: Land your dream job with Resumify.AI")
 input_text=st.text_area("What is the job description? ",key="input")
 uploaded_file=st.file_uploader("Upload your resume in PDF format",type=["pdf"])
