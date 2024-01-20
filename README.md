@@ -47,6 +47,5 @@ To run the Resumify.ai application, follow these steps:
 
 If you encounter any issues or have suggestions, please email me at krajoria@umass.edu
 
-## Acknowledgements
 
-- Special thanks to the creators of the generative AI models and Streamlit for their incredible contributions.
+## View this project live [here 🚀](https://khushirajoria-resumifyai.streamlit.app/)
